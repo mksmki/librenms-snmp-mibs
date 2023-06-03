@@ -1,0 +1,164 @@
+smidump: module `AIRESPACE-SWITCHING-MIB' contains errors, expect flawed output
+smidump: module `AIRESPACE-WIRELESS-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/ASYNCOSWEBSECURITYAPPLIANCE-MIB:660: unknown object identifier label `cacheHTTPSrvSvcWaitTime'
+smidump: module `ASYNCOSWEBSECURITYAPPLIANCE-MIB' contains errors, expect flawed output
+smidump: module `CISCO-CHANNEL-MIB' contains errors, expect flawed output
+smidump: module `CISCO-CLASS-BASED-QOS-MIB' contains errors, expect flawed output
+smidump: module `CISCO-DMN-DSG-TUNING-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCO-DOCS-EXT-MIB:57: failed to locate MIB module `DOCS-IF3-MIB'
+/opt/librenms/mibs/cisco/CISCO-DOCS-EXT-MIB:3305: illegal base type `ChSetId' in index element `cdxCmtsMtcTcsId' of row cdxCmtsMtcCmEntry
+smidump: module `CISCO-DOCS-EXT-MIB' contains errors, expect flawed output
+smidump: module `CISCO-DOT11-IF-MIB' contains errors, expect flawed output
+smidump: module `CISCO-ENTITY-ALARM-MIB' contains errors, expect flawed output
+smidump: module `CISCO-ENTITY-EXT-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCO-FRAME-RELAY-MIB:49: failed to locate MIB module `RFC1315-MIB'
+/opt/librenms/mibs/cisco/CISCO-FRAME-RELAY-MIB:224: unknown object identifier label `frDlcmiEntry'
+/opt/librenms/mibs/cisco/CISCO-FRAME-RELAY-MIB:399: unknown object identifier label `frCircuitEntry'
+/opt/librenms/mibs/cisco/CISCO-FRAME-RELAY-MIB:867: unknown object identifier label `frCircuitIfIndex'
+/opt/librenms/mibs/cisco/CISCO-FRAME-RELAY-MIB:867: unknown object identifier label `frCircuitDlci'
+smidump: module `CISCO-FRAME-RELAY-MIB' contains errors, expect flawed output
+smidump: module `CISCO-ISDN-MIB' contains errors, expect flawed output
+smidump: module `CISCO-LWAPP-AP-MIB' contains errors, expect flawed output
+smidump: module `CISCO-LWAPP-SYS-MIB' contains errors, expect flawed output
+smidump: module `CISCO-PROCESS-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCO-QOS-PIB-MIB:744: the SPPI construct/keyword `Unsigned64' may not be used in a MIB
+smidump: module `CISCO-QOS-PIB-MIB' contains errors, expect flawed output
+smidump: module `CISCO-QUEUE-MIB' contains errors, expect flawed output
+smidump: module `CISCO-RTTMON-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-1-BONJOUR-SERVICE-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-BANNER-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-BRIDGEMIBOBJECTS-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-BRIDGE-SECURITY' contains errors, expect flawed output
+smidump: module `CISCOSB-CDP-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-CLI-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-COPY-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-DEBUGCAPABILITIES-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-DEVICEPARAMS-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-DHCPCL-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-DHCP-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-DHCPv6-CLIENT' contains errors, expect flawed output
+smidump: module `CISCOSB-DHCPv6-RELAY' contains errors, expect flawed output
+smidump: module `CISCOSB-Dlf-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-DNSCL-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCOSB-DOT1X-MIB:16: failed to locate MIB module `IEEE8021X-PAE-MIB'
+/opt/librenms/mibs/cisco/CISCOSB-DOT1X-MIB:1532: unknown object identifier label `ieee8021XPaePortNumber'
+smidump: module `CISCOSB-DOT1X-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-EMBWEB-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-File' contains errors, expect flawed output
+smidump: module `CISCOSB-HWENVIROMENT' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCOSB-IP:1349: unknown object identifier label `zeroDotZero'
+smidump: module `CISCOSB-IP' contains errors, expect flawed output
+smidump: module `CISCOSB-ippreflist-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-IpRouter' contains errors, expect flawed output
+smidump: module `CISCOSB-IPSTDACL-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-IPV6FHS-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCOSB-LLDP-MIB:607: unknown object identifier label `lldpPortConfigPortNum'
+smidump: module `CISCOSB-LLDP-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-LOCALIZATION-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-MAC-BASE-PRIO' contains errors, expect flawed output
+smidump: module `CISCOSB-MGMD-ROUTER-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-openflow-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-PBR-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-Physicaldescription-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-PNP' contains errors, expect flawed output
+smidump: module `CISCOSB-POE-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-POLICY-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-PORT-STATISTICS-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-QOS-APPS-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-QOS-CLI-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-RADIUSSRV' contains errors, expect flawed output
+smidump: module `CISCOSB-Redistribute' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCOSB-rldot1q-MIB:31: identifier `rldot1q' registers object identifier already registered by `rlq-bridge-mib'
+smidump: module `CISCOSB-rldot1q-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-rlFft' contains errors, expect flawed output
+smidump: module `CISCOSB-rlInterfaces' contains errors, expect flawed output
+smidump: module `CISCOSB-RLINVENTORYENT-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCOSB-RMON:351: unknown object identifier label `etherStatsEntry'
+smidump: module `CISCOSB-RMON' contains errors, expect flawed output
+smidump: module `CISCOSB-rndApplications' contains errors, expect flawed output
+smidump: module `CISCOSB-rndMng' contains errors, expect flawed output
+smidump: module `CISCOSB-ROUTEMAP-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SCT-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SECSD-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SECURITY-SUITE' contains errors, expect flawed output
+smidump: module `CISCOSB-SMARTPORTS-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SMON-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/CISCOSB-SNMP-MIB:874: unknown object identifier label `usmNoAuthProtocol'
+/opt/librenms/mibs/cisco/CISCOSB-SNMP-MIB:883: unknown object identifier label `usmNoPrivProtocol'
+smidump: module `CISCOSB-SNMP-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SOCKET-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SPAN-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SpecialBpdu-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SSH-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SSL' contains errors, expect flawed output
+smidump: module `CISCOSB-STACK-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-SYSMNG-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-TELNET-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-TIMESYNCHRONIZATION-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-TRAPS-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-Tuning' contains errors, expect flawed output
+smidump: module `CISCOSB-TUNNEL-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-UDP' contains errors, expect flawed output
+smidump: module `CISCOSB-vlan-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-vlanVoice-MIB' contains errors, expect flawed output
+smidump: module `CISCOSB-WBA-MIB' contains errors, expect flawed output
+smidump: module `CISCOSMB-MIB' contains errors, expect flawed output
+smidump: module `CISCO-SNAPSHOT-MIB' contains errors, expect flawed output
+smidump: module `CISCO-TC-NO-U32' contains errors, expect flawed output
+smidump: module `CISCO-TCPOFFLOAD-MIB' contains errors, expect flawed output
+smidump: module `CISCO-UNIFIED-COMPUTING-COMPUTE-MIB' contains errors, expect flawed output
+smidump: module `CISCO-UNIFIED-COMPUTING-EQUIPMENT-MIB' contains errors, expect flawed output
+smidump: module `CISCO-UNIFIED-COMPUTING-MEMORY-MIB' contains errors, expect flawed output
+smidump: module `CISCO-UNIFIED-COMPUTING-PROCESSOR-MIB' contains errors, expect flawed output
+smidump: module `OLD-CISCO-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `OLD-CISCO-CPU-MIB' contains errors, expect flawed output
+smidump: module `OLD-CISCO-INTERFACES-MIB' contains errors, expect flawed output
+smidump: module `OLD-CISCO-MEMORY-MIB' contains errors, expect flawed output
+smidump: module `OLD-CISCO-SYS-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/SA-CM-MTA-MIB:186: syntax error, unexpected UPPERCASE_IDENTIFIER, expecting LOWERCASE_IDENTIFIER
+/opt/librenms/mibs/cisco/SA-CM-MTA-MIB:188: syntax error, unexpected MAX_ACCESS
+/opt/librenms/mibs/cisco/SA-CM-MTA-MIB:193: syntax error, unexpected COLON_COLON_EQUAL
+smidump: module `SA-CM-MTA-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/cisco/SA-RG-MIB:1649: syntax error, unexpected '}', expecting LOWERCASE_IDENTIFIER
+/opt/librenms/mibs/cisco/SA-RG-MIB:1263: unknown object identifier label `saRgDot11ExtOperMode'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1264: unknown object identifier label `saRgDot11ExtCurrentChannel'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1265: unknown object identifier label `saRgDot11ExtBeaconInterval'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1266: unknown object identifier label `saRgDot11ExtDTIMInterval'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1267: unknown object identifier label `saRgDot11ExtFragThresh'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1268: unknown object identifier label `saRgDot11ExtRTSThresh'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1269: unknown object identifier label `saRgDot11ExtSRL'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1270: unknown object identifier label `saRgDot11ExtLRL'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1271: unknown object identifier label `saRgDot11ExtCtsProtectionEnable'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1272: unknown object identifier label `saRgDot11ExtRate'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1273: unknown object identifier label `saRgDot11ExtOutputPower'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1274: unknown object identifier label `saRgDot11ExtCountry'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1275: unknown object identifier label `saRgDot11ExtAntenna'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1280: unknown object identifier label `saRgDot11ExtOnOffPushButtonTime'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1281: unknown object identifier label `saRgDot11ExtWmm'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1282: unknown object identifier label `saRgDot11ExtWmmNoAck'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1283: unknown object identifier label `saRgDot11ExtMulticastRate'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1284: unknown object identifier label `saRgDot11ExtWirelessButtonOperation'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1285: unknown object identifier label `saRgDot11ExtWpsEnable'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1286: unknown object identifier label `saRgDot11ExtWpsPin'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1289: unknown object identifier label `saRgDot11ExtForceRescan'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1720: unknown object identifier label `saRgIpMgmtLanAddrClientNotes'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1721: unknown object identifier label `saRgIpMgmtLanAddrCpeStatus'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1722: unknown object identifier label `saRgIpMgmtLanAddrSignalStrength'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1723: unknown object identifier label `saRgIpMgmtLanAddrRequestedOptionsList'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1726: unknown object identifier label `saRgIpMgmtLanAddrParameterRequestList'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1829: unknown object identifier label `saRgIpMgmtDnsServerOrder'
+/opt/librenms/mibs/cisco/SA-RG-MIB:1836: unknown object identifier label `saRgIpMgmtDnsServerIpv6'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2429: unknown object identifier label `saRgFirewallIpFilterTrusted'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2431: unknown object identifier label `saRgFirewallIpFilterPolicy'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2490: unknown object identifier label `saRgFirewallPortFilterAlwaysBlock'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2491: unknown object identifier label `saRgFirewallPortFilterBlockStartTime'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2492: unknown object identifier label `saRgFirewallPortFilterBlockEndTime'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2493: unknown object identifier label `saRgFirewallPortFilterBlockDays'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2564: unknown object identifier label `saRgFirewallMacFilterAlwaysBlock'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2565: unknown object identifier label `saRgFirewallMacFilterBlockStartTime'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2566: unknown object identifier label `saRgFirewallMacFilterBlockEndTime'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2567: unknown object identifier label `saRgFirewallMacFilterBlockDays'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2646: unknown object identifier label `saRgFirewallPortFwdSrvcName'
+/opt/librenms/mibs/cisco/SA-RG-MIB:2750: unknown object identifier label `saRgFirewallPortTrigSrvcName'
+smidump: module `SA-RG-MIB' contains errors, expect flawed output

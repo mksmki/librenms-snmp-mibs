@@ -1,0 +1,6 @@
+/opt/librenms/mibs/vmware/VELOCLOUD-EDGE-MIB:33: failed to locate MIB module `UUID-TC-MIB'
+/opt/librenms/mibs/vmware/VELOCLOUD-EDGE-MIB:373: illegal base type `UUID' in index element `vceLinkIntId' of row vceLinkEntry
+/opt/librenms/mibs/vmware/VELOCLOUD-EDGE-MIB:772: illegal base type `UUID' in index element `vcePathIfIntId' of row vcePathEntry
+smidump: module `VELOCLOUD-EDGE-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/vmware/VMWARE-NSX-MANAGER-MIB:15: failed to locate MIB module `UUID-TC-MIB'
+smidump: module `VMWARE-NSX-MANAGER-MIB' contains errors, expect flawed output

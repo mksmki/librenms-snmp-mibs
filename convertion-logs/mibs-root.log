@@ -1,0 +1,65 @@
+smidump: module `ATM-DXI-MIB' contains errors, expect flawed output
+smidump: module `ATM-FORUM-ADDR-REG' contains errors, expect flawed output
+smidump: module `ATM-FORUM-ILMI40-MIB' contains errors, expect flawed output
+smidump: module `ATM-FORUM-M4-MIB' contains errors, expect flawed output
+smidump: module `ATM-FORUM-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/ATM-FORUM-SRVC-REG:60: unknown object identifier label `atmfSrvcAddressIndex'
+smidump: module `ATM-FORUM-SRVC-REG' contains errors, expect flawed output
+smidump: module `ATM-FORUM-TC-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/DLSW-MIB:1702: unknown object identifier label `zeroDotZero'
+/opt/librenms/mibs/DLSW-MIB:1883: unknown object identifier label `zeroDotZero'
+smidump: module `DLSW-MIB' contains errors, expect flawed output
+smidump: module `DNS-RESOLVER-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/DNS-SERVER-MIB:8: failed to locate MIB module `RFC-1213'
+/opt/librenms/mibs/DNS-SERVER-MIB:21: unknown object identifier label `mib-2'
+smidump: module `DNS-SERVER-MIB' contains errors, expect flawed output
+smidump: module `DOCS-CABLE-DEVICE-MIB' contains errors, expect flawed output
+smidump: module `DVMRP-MIB' contains errors, expect flawed output
+smidump: module `FCMGMT-MIB' contains errors, expect flawed output
+smidump: module `FDDI-SMT73-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/IEEE8021-Q-BRIDGE-MIB:2126: unknown object identifier label `ieee8021BridgeBaseEgressPortComponentId'
+/opt/librenms/mibs/IEEE8021-Q-BRIDGE-MIB:2127: unknown object identifier label `ieee8021BridgeEgressBasePort'
+smidump: module `IEEE8021-Q-BRIDGE-MIB' contains errors, expect flawed output
+smidump: module `IEEE8021-SECY-MIB' contains errors, expect flawed output
+smidump: module `IEEE8023-LAG-MIB' contains errors, expect flawed output
+smidump: module `IEEE802dot11-MIB' contains errors, expect flawed output
+smidump: module `IGMP-MIB' contains errors, expect flawed output
+smidump: module `INT-SERV-MIB' contains errors, expect flawed output
+smidump: module `IPV6-TC' contains errors, expect flawed output
+failed to locate MIB module `librenms'
+smidump: cannot locate module `librenms'
+smidump: module `LLDP-EXT-DCBX-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/LSI-MegaRAID-SAS-MIB:4594: syntax error, unexpected STRING
+/opt/librenms/mibs/LSI-MegaRAID-SAS-MIB:4602: syntax error, unexpected STRING
+/opt/librenms/mibs/LSI-MegaRAID-SAS-MIB:5210: unknown object identifier label `vdNewname'
+smidump: module `LSI-MegaRAID-SAS-MIB' contains errors, expect flawed output
+smidump: module `MPLS-LSR-MIB' contains errors, expect flawed output
+smidump: module `MSTP-MIB' contains errors, expect flawed output
+smidump: module `MTA-MIB' contains errors, expect flawed output
+smidump: module `NET-SNMP-PASS-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/NetWare-Host-Ext-MIB:963: syntax error, unexpected INTEGER, expecting UPPERCASE_IDENTIFIER or LOWERCASE_IDENTIFIER or NUMBER
+/opt/librenms/mibs/NetWare-Host-Ext-MIB:964: syntax error, unexpected COLON_COLON_EQUAL
+/opt/librenms/mibs/NetWare-Host-Ext-MIB:1062: syntax error, unexpected INTEGER, expecting UPPERCASE_IDENTIFIER or LOWERCASE_IDENTIFIER or NUMBER
+/opt/librenms/mibs/NetWare-Host-Ext-MIB:1063: syntax error, unexpected COLON_COLON_EQUAL
+/opt/librenms/mibs/NetWare-Host-Ext-MIB:981: unknown object identifier label `nwhrProtocolEntry'
+/opt/librenms/mibs/NetWare-Host-Ext-MIB:1077: unknown object identifier label `nwhrIfEntry'
+smidump: module `NetWare-Host-Ext-MIB' contains errors, expect flawed output
+smidump: module `RFC1155-SMI' contains errors, expect flawed output
+RFC1155-SMI.dic: unable to determine SMI version
+smidump: cannot locate module `RFC1155-SMI.dic'
+smidump: module `RFC1213-MIB' contains errors, expect flawed output
+smidump: module `RFC1271-MIB' contains errors, expect flawed output
+smidump: module `RFC1284-MIB' contains errors, expect flawed output
+smidump: module `RFC1389-MIB' contains errors, expect flawed output
+smidump: module `RIPv2-MIB' contains errors, expect flawed output
+smidump: module `SML-MIB' contains errors, expect flawed output
+smidump: module `SNMP-REPEATER-MIB' contains errors, expect flawed output
+smidump: module `SNMPv2-CONF' contains errors, expect flawed output
+SNMPv2-MIB.mic: unable to determine SMI version
+smidump: cannot locate module `SNMPv2-MIB.mic'
+smidump: module `SNMPv2-SMI' contains errors, expect flawed output
+smidump: module `SNMPv2-SMI-v1' contains errors, expect flawed output
+smidump: module `TNMS-NBI-MIB' contains errors, expect flawed output
+smidump: module `TOKEN-RING-RMON-MIB' contains errors, expect flawed output
+smidump: module `UPS-MIB' contains errors, expect flawed output
+smidump: module `XPPC-MIB' contains errors, expect flawed output

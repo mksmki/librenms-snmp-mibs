@@ -1,0 +1,29 @@
+/opt/librenms/mibs/dell/DELLEMC-OS10-CHASSIS-MIB:137: syntax error, unexpected LOWERCASE_IDENTIFIER, expecting '}' or ','
+smidump: module `DELLEMC-OS10-CHASSIS-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/dell/DellMDStorageArray-MIB:179: unknown object identifier label `deviceHostIP'
+smidump: module `DellMDStorageArray-MIB' contains errors, expect flawed output
+smidump: module `DELL-NETWORKING-BPSTATS-MIB' contains errors, expect flawed output
+smidump: module `DELL-NETWORKING-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `DELL-NETWORKING-FIB-MIB' contains errors, expect flawed output
+smidump: module `DELL-NETWORKING-FPSTATS-MIB' contains errors, expect flawed output
+smidump: module `DELL-NETWORKING-IF-EXTENSION-MIB' contains errors, expect flawed output
+smidump: module `DELL-NETWORKING-SYSTEM-COMPONENT-MIB' contains errors, expect flawed output
+smidump: module `DELL-RAC-MIB' contains errors, expect flawed output
+smidump: module `DellrPDU-MIB' contains errors, expect flawed output
+smidump: module `DELL-SHADOW-MIB' contains errors, expect flawed output
+smidump: module `DELL-SNMP-UPS-MIB' contains errors, expect flawed output
+smidump: module `F10-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `F10-C-SERIES-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `F10-FIB-MIB' contains errors, expect flawed output
+smidump: module `F10-LINK-AGGREGATION-MIB' contains errors, expect flawed output
+smidump: module `F10-M-SERIES-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `F10-S-SERIES-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `F10-Z-SERIES-CHASSIS-MIB' contains errors, expect flawed output
+smidump: module `FORCE10-COPY-CONFIG-MIB' contains errors, expect flawed output
+smidump: module `FORCE10-MONITORING-MIB' contains errors, expect flawed output
+smidump: module `FORCE10-MSTP-MIB' contains errors, expect flawed output
+smidump: module `FORCE10-SYSTEM-COMPONENT-MIB' contains errors, expect flawed output
+smidump: module `FORCE10-TRAP-EVENT-MIB' contains errors, expect flawed output
+smidump: module `MIB-Dell-10892' contains errors, expect flawed output
+smidump: module `SanAppliance-MIB' contains errors, expect flawed output
+smidump: module `StorageManagement-MIB' contains errors, expect flawed output

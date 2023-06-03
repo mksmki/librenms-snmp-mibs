@@ -1,0 +1,27 @@
+/opt/librenms/mibs/paloaltonetworks/PAN-COMMON-MIB:22: failed to locate MIB module `PAN-GLOBAL-TC'
+/opt/librenms/mibs/paloaltonetworks/PAN-COMMON-MIB:24: failed to locate MIB module `PAN-GLOBAL-REG'
+/opt/librenms/mibs/paloaltonetworks/PAN-COMMON-MIB:63: unknown object identifier label `panModules'
+/opt/librenms/mibs/paloaltonetworks/PAN-COMMON-MIB:76: unknown object identifier label `panCommonMib'
+smidump: module `PAN-COMMON-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/paloaltonetworks/PAN-ENTITY-EXT-MIB:20: failed to locate MIB module `PAN-GLOBAL-REG'
+/opt/librenms/mibs/paloaltonetworks/PAN-ENTITY-EXT-MIB:43: unknown object identifier label `panModules'
+smidump: module `PAN-ENTITY-EXT-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/paloaltonetworks/PAN-GLOBAL-TC-MIB:15: failed to locate MIB module `PAN-GLOBAL-REG'
+/opt/librenms/mibs/paloaltonetworks/PAN-GLOBAL-TC-MIB:39: unknown object identifier label `panModules'
+smidump: module `PAN-GLOBAL-TC-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/paloaltonetworks/PAN-LC-MIB:19: failed to locate MIB module `PAN-GLOBAL-REG'
+/opt/librenms/mibs/paloaltonetworks/PAN-LC-MIB:21: failed to locate MIB module `PAN-PRODUCTS-MIB'
+/opt/librenms/mibs/paloaltonetworks/PAN-LC-MIB:44: unknown object identifier label `panModules'
+/opt/librenms/mibs/paloaltonetworks/PAN-LC-MIB:53: unknown object identifier label `panM-100'
+smidump: module `PAN-LC-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/paloaltonetworks/PAN-PRODUCT-MIB:20: failed to locate MIB module `PAN-GLOBAL-TC'
+/opt/librenms/mibs/paloaltonetworks/PAN-PRODUCT-MIB:22: failed to locate MIB module `PAN-GLOBAL-REG'
+/opt/librenms/mibs/paloaltonetworks/PAN-PRODUCT-MIB:49: unknown object identifier label `panModules'
+/opt/librenms/mibs/paloaltonetworks/PAN-PRODUCT-MIB:55: unknown object identifier label `panProductsMibs'
+smidump: module `PAN-PRODUCT-MIB' contains errors, expect flawed output
+/opt/librenms/mibs/paloaltonetworks/PAN-TRAPS:20: failed to locate MIB module `PAN-GLOBAL-TC'
+/opt/librenms/mibs/paloaltonetworks/PAN-TRAPS:22: failed to locate MIB module `PAN-GLOBAL-REG'
+/opt/librenms/mibs/paloaltonetworks/PAN-TRAPS:89: unknown object identifier label `panModules'
+/opt/librenms/mibs/paloaltonetworks/PAN-TRAPS:2497: unknown object identifier label `panHostId'
+/opt/librenms/mibs/paloaltonetworks/PAN-TRAPS:2497: unknown object identifier label `panSerialNo'
+smidump: module `PAN-TRAPS' contains errors, expect flawed output
